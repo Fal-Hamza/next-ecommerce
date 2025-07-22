@@ -41,7 +41,7 @@ const CartModal = () => {
                 </div>
               </div>
             </div>
-            {/* items 1 */}
+            {/* items 2 */}
             <div className=' flex gap-4'>
               <Image
                 src='https://images.pexels.com/photos/61129/pexels-photo-61129.jpeg'
